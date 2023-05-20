@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Router-Calculator/static/css/main.470e2bcb.css",
+    "main.js": "/React-Router-Calculator/static/js/main.22cfdcac.js",
+    "index.html": "/React-Router-Calculator/index.html",
+    "main.470e2bcb.css.map": "/React-Router-Calculator/static/css/main.470e2bcb.css.map",
+    "main.22cfdcac.js.map": "/React-Router-Calculator/static/js/main.22cfdcac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.470e2bcb.css",
+    "static/js/main.22cfdcac.js"
+  ]
+}
